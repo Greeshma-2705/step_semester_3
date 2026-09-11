@@ -1,0 +1,6 @@
+{
+"java.project.sourcePaths": [
+    "src/main/java/oop_fundamentals"
+],
+"java.debug.settings.onBuildFailureProceed": true
+}
