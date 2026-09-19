@@ -84,30 +84,30 @@ Issues Faced:
 ## Date: 13-09-2026
 **Today's Work:**
 
--Started and completed Session 6.
+- Started and completed Session 6.
 
--Completed 5 class problems based on OOP Inheritance and Polymorphism.
+- Completed 5 class problems based on OOP Inheritance and Polymorphism.
 
--Completed 5 assignment problems based on OOP Inheritance and Polymorphism.
+- Completed 5 assignment problems based on OOP Inheritance and Polymorphism.
 
--Practiced Java concepts including inheritance, method overriding, method overloading, runtime polymorphism, compile-time polymorphism, superclass and subclass relationships, and dynamic method dispatch.
+- Practiced Java concepts including inheritance, method overriding, method overloading, runtime polymorphism, compile-time polymorphism, superclass and subclass relationships, and dynamic method dispatch.
 
--Created and organized the programs using the required package and folder structure.
+- Created and organized the programs using the required package and folder structure.
 
--Compiled and tested the programs in VS Code.
+- Compiled and tested the programs in VS Code.
 
--Pushed Session 6 work to feature/session_6.
+- Pushed Session 6 work to feature/session_6.
 
 **Next Session Plan:**
 
--Start Session 7 and complete the assigned programs.
+- Start Session 7 and complete the assigned programs.
 
--Continue practicing Java OOP concepts and problem-solving.
+- Continue practicing Java OOP concepts and problem-solving.
 
--Maintain the required Git branch and package structure.
+- Maintain the required Git branch and package structure.
 
 **Issues Faced:**
 
--Faced some compilation and execution errors while working with inheritance and polymorphism programs.
+- Faced some compilation and execution errors while working with inheritance and polymorphism programs.
 
--Resolved the issues by correcting the class structure, package paths, and compile/run commands.
+- Resolved the issues by correcting the class structure, package paths, and compile/run commands.
